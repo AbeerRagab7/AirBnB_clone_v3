@@ -178,9 +178,6 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## License
-Public Domain. No copy write protection. 
-
 
 ## Author :black_nib:
 
